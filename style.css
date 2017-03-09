@@ -7,7 +7,7 @@ body {
        -o-background-size: 50% auto;
           background-size: 50% auto;
   background-image: url(https://stupidhackathon.com/images/snap2.jpg);
-  background-position: calc(50%) calc(0%); 
+  background-position: Left 50% Top 0%; 
   background-repeat: repeat-y;
   background-attachment: fixed;
   line-height: 150%;
