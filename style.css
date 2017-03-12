@@ -39,6 +39,9 @@ h1 {
   line-height: 150%;
 }
 
+.whitespace span {
+  background-color: #ffffff;
+}
 .stupidlist span {
   background-color: #fef200;
 }
