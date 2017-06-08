@@ -6,7 +6,7 @@ body {
      -moz-background-size: 50% auto;
        -o-background-size: 50% auto;
           background-size: 50% auto;
-  background-image: url(/billg1_GO.png);
+  background-image: url(./billg1_GO.png);
   background-repeat: repeat-y;
   background-attachment: fixed;
   line-height: 150%;
